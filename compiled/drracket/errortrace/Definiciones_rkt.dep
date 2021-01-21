@@ -1,0 +1,1 @@
+("7.9" racket ("ec96d7d978e9a4cba99b7996af0d06a866e7eeec" . "99aac5579680ae6bd51328cee37cb53f24c0b426") (collects #"errortrace" #"errortrace-key.rkt") (collects #"images" #"icons" #"control.rkt") (collects #"images" #"icons" #"misc.rkt") (collects #"racket" #"date.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

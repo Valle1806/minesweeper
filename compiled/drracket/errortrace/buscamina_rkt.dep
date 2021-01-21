@@ -1,0 +1,1 @@
+("6.5" ("fb735539ee6840e55b3b8c7c36c73b662e0617cf" . "fb673c6580403ee71856b3a47263ef8de529c80a") #"C:\\Users\\Cristian\\Downloads\\BUSCAMINA\\buscamina1.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"images" #"icons" #"control.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
